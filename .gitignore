@@ -37,3 +37,4 @@ dmypy.json
 .pyre/
 
 flaskec2KEyPair.pem
+*.pem
